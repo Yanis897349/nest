@@ -1,0 +1,8 @@
+/target/
+/bin/
+/coverage/
+*.profraw
+/ziroom-beijing-*.json
+/ziroom-beijing-*.csv
+*.jsonl
+/.DS_Store

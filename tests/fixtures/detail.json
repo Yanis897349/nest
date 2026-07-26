@@ -1,0 +1,11 @@
+{
+  "listing_id": "810907652",
+  "status": "可预订",
+  "description": "安静朝南",
+  "facts": {
+    "面积": "81.9㎡",
+    "楼层": "4/6层"
+  },
+  "amenities": ["空调", "洗衣机"],
+  "image_urls": ["https://static8.ziroom.com/example.jpg"]
+}

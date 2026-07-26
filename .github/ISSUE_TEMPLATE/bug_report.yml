@@ -1,0 +1,41 @@
+name: Bug report
+description: Report reproducible incorrect behavior in nest
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: Do not report suspected vulnerabilities here; use the process in SECURITY.md.
+  - type: input
+    id: version
+    attributes:
+      label: nest version
+      placeholder: Output from nest --version
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      options: [macOS Apple Silicon, macOS Intel, Linux ARM64, Linux x86_64, Windows best-effort]
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction steps
+      description: Include browser name/version and sanitized diagnostics when relevant.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true

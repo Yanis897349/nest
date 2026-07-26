@@ -1,0 +1,23 @@
+{
+  "source_url": "https://www.ziroom.com/z/z2-d23008618-u15-r0/?cp=0TO15000",
+  "reported_total": 36,
+  "cards": [
+    {
+      "listing_id": "810907652",
+      "title": "东馨园3居",
+      "detail_url": "https://www.ziroom.com/x/810907652.html",
+      "area_floor_orientation": "81.9㎡ | 4/6层 | 朝南",
+      "location_or_transit": "距18号线上地软件园站步行约646米",
+      "tags": ["业主原装", "独立阳台", "南北通透"],
+      "image_url": "https://static8.ziroom.com/example.jpg",
+      "price_glyphs": [
+        {"sprite_url": "https://static8.ziroom.com/sprite.png", "background_x_px": -128.4, "background_size_px": 214.0},
+        {"sprite_url": "https://static8.ziroom.com/sprite.png", "background_x_px": -64.2, "background_size_px": 214.0},
+        {"sprite_url": "https://static8.ziroom.com/sprite.png", "background_x_px": -42.8, "background_size_px": 214.0},
+        {"sprite_url": "https://static8.ziroom.com/sprite.png", "background_x_px": -85.6, "background_size_px": 214.0}
+      ]
+    }
+  ],
+  "next_page_url": "https://www.ziroom.com/z/z2-d23008618-u15-r0-p2/?cp=0TO15000"
+}
+

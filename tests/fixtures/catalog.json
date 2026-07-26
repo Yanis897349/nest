@@ -1,0 +1,25 @@
+{
+  "mode": "region",
+  "districts": [
+    {
+      "label": "海淀",
+      "url": "https://www.ziroom.com/z/d23008618/",
+      "selected": true
+    }
+  ],
+  "business_areas": [],
+  "subway_lines": [],
+  "stations": [],
+  "rental_types": [
+    {
+      "label": "整租",
+      "url": "https://www.ziroom.com/z/z2/",
+      "selected": false
+    }
+  ],
+  "rent_presets": [],
+  "bedrooms": [],
+  "sort_orders": [],
+  "selected_labels": ["海淀"],
+  "current_url": "https://www.ziroom.com/z/d23008618/"
+}
