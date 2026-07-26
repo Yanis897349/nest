@@ -6,7 +6,7 @@ use tokio::{sync::mpsc, task::JoinHandle};
 use tokio_util::sync::CancellationToken;
 use url::Url;
 
-use super::state::{BackendEvent, BackendRequest};
+use super::protocol::{BackendEvent, BackendRequest};
 use crate::{
     ZIROOM_BASE_URL,
     ziroom::{BrowserError, BrowserSettings, ZiroomClient},

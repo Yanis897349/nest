@@ -1,7 +1,6 @@
 mod app;
 mod export;
 mod model;
-mod parser;
 mod ui;
 mod ziroom;
 
